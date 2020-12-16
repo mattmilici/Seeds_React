@@ -1,6 +1,6 @@
 # Seeds
 
-The Seeds application can be found here: [https://hidden-caverns-84141.herokuapp.com/](https://hidden-caverns-84141.herokuapp.com/)
+The Seeds application can be found here: [https://seeds-app.herokuapp.com/](https://seeds-app.herokuapp.com/)
 
 ## Introduction
 
